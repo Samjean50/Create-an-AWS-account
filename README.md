@@ -1,4 +1,4 @@
-## AWS Account Creation Project
+## Mini Project - AWS Account Creation Project
 
 ### 1. Project Overview
 
